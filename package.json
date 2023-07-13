@@ -1,0 +1,25 @@
+{
+  "name": "testingplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Anus",
+  "license": "ISC",
+  "dependencies": {
+    "ascii85": "^1.0.2",
+    "cors": "^2.8.5",
+    "events": "^3.3.0",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "pg": "^8.11.1",
+    "util": "^0.12.5",
+    "xml2js": "^0.6.0",
+    "xmldom": "^0.6.0"
+  }
+}
